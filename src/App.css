@@ -1,0 +1,38 @@
+.sidebar{
+  width:200px;
+  height: 500px;
+  padding: 40px;
+  margin: 40px;
+  margin-left:150px;
+  background-color: rgb(15, 14, 14);
+  border-radius: 30px;
+  text-align: center;
+  justify-content: center;
+  justify-items: center;
+  border:1px solid rgb(34, 33, 33);
+}
+
+.sidebar_text{
+  font-weight: bold;
+  font-size: 25px;
+}
+.avatar{
+  width: 100px;
+  height:100px;
+  padding:30px;
+  margin-left: 19px;
+  margin-bottom: 30px;
+  border-radius: 30px;
+  background-color: rgb(41, 40, 40);
+}
+.job_title{
+  padding: 5px;
+  border-radius: 5px;
+  margin: 30px  0px 30px 0px;
+  background-color: rgb(38, 37, 37);
+}
+.icon_box{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
